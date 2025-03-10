@@ -5,11 +5,11 @@ This project is an AI-driven Resume Screening & Candidate Ranking System develop
 
 <b>Key Features:</b><br/>
 <li>
-✔️ Job Description Input: Users can enter a job description as a reference.
-✔️ Bulk Resume Upload: Supports uploading multiple resumes in PDF format.
-✔️ Automated Text Extraction: Extracts text from resumes for analysis.
-✔️ Intelligent Ranking: Uses AI to rank resumes based on relevance.
-✔️ User-Friendly Display: Shows ranked results in a descending order of relevance.
+<ul>Job Description Input: Users can enter a job description as a reference.</ul>
+<ul> Bulk Resume Upload: Supports uploading multiple resumes in PDF format.</ul>
+<ul> Automated Text Extraction: Extracts text from resumes for analysis.</ul>
+<ul> Intelligent Ranking: Uses AI to rank resumes based on relevance.</ul>
+<ul> User-Friendly Display: Shows ranked results in a descending order of relevance.</ul>
 </li>
 
 Installation
