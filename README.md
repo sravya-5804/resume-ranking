@@ -4,13 +4,11 @@ AI Resume Screening & Candidate Ranking System<br/>
 This project is an AI-driven Resume Screening & Candidate Ranking System developed using Streamlit, PyPDF2, and Scikit-learn. The system analyzes resumes and ranks them based on their relevance to a given job description using TF-IDF vectorization and cosine similarity.</br>
 
 <b>Key Features:</b><br/>
-<li>
 <ul>Job Description Input: Users can enter a job description as a reference.</ul>
 <ul> Bulk Resume Upload: Supports uploading multiple resumes in PDF format.</ul>
 <ul> Automated Text Extraction: Extracts text from resumes for analysis.</ul>
 <ul> Intelligent Ranking: Uses AI to rank resumes based on relevance.</ul>
 <ul> User-Friendly Display: Shows ranked results in a descending order of relevance.</ul>
-</li>
 
 Installation
 Prerequisites:
