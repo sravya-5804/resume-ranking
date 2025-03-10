@@ -1,9 +1,9 @@
-# Name: Bayana Sravya Sindhu
-AI Resume Screening & Candidate Ranking System
-Overview
-This project is an AI-driven Resume Screening & Candidate Ranking System developed using Streamlit, PyPDF2, and Scikit-learn. The system analyzes resumes and ranks them based on their relevance to a given job description using TF-IDF vectorization and cosine similarity.
+Name: Bayana Sravya Sindhu<br/>
+AI Resume Screening & Candidate Ranking System<br/>
+<b>Overview</b><br/>
+This project is an AI-driven Resume Screening & Candidate Ranking System developed using Streamlit, PyPDF2, and Scikit-learn. The system analyzes resumes and ranks them based on their relevance to a given job description using TF-IDF vectorization and cosine similarity.</br>
 
-Key Features:
+<b>Key Features:</b><br/>
 ✔️ Job Description Input: Users can enter a job description as a reference.
 ✔️ Bulk Resume Upload: Supports uploading multiple resumes in PDF format.
 ✔️ Automated Text Extraction: Extracts text from resumes for analysis.
